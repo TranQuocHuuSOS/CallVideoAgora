@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "589171944297",
+    "project_id": "callvideo-9449e",
+    "storage_bucket": "callvideo-9449e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589171944297:android:115837b5ac098304d22bf8",
+        "android_client_info": {
+          "package_name": "com.agoravideocallapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBblIPewGFCloK7Wr1Atj2HR-Ok3oD5fZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
